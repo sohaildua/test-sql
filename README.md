@@ -1,4 +1,4 @@
 # test-sql
 Testing sql queries
-Window functions learning
+Window functions learning more practice
 
